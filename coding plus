@@ -1,0 +1,4 @@
+git add (파일명)
+git commmit -m "test"
+git push
+아이디, 
